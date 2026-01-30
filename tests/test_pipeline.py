@@ -1,1 +1,1 @@
-
+print("Pipeline test placeholder")

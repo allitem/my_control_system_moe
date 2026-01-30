@@ -1,1 +1,1 @@
-
+print("Controller test placeholder")
