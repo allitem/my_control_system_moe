@@ -1,1 +1,1 @@
-
+print("Multi-notifier placeholder")
